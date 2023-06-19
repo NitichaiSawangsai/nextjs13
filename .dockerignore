@@ -1,0 +1,17 @@
+# Git
+.git
+
+# Code repo
+.github
+
+# Node
+node_modules
+
+# Other
+README.md
+
+.storybook/
+
+.husky/*
+
+.env

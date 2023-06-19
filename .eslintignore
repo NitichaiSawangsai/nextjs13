@@ -1,0 +1,10 @@
+node_modules
+.github
+.husky
+.next
+.vscode
+out
+dist
+coverage
+
+src/app/api

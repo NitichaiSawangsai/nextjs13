@@ -1,0 +1,9 @@
+{
+  "HOME": {
+    "title": "Tap to select movies"
+  },
+  "MOVIE_DETAIL": {
+    "story": "Story",
+    "booking": "Booking"
+  }
+}
